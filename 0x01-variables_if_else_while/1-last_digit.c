@@ -4,8 +4,6 @@
 /**
  * Main - print the last digit of the number stored in the variable
  *
- * Description: 'print the last number in the var'
- *
  * Return: Always 0 (Success)
 */
 int main(void)
